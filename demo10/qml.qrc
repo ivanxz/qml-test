@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>AppSimpleRow.qml</file>
+        <file>SimpleRow.qml</file>
+        <file>AppText.qml</file>
+        <file>images/portrait0.jpg</file>
+        <file>images/portrait1.jpg</file>
+        <file>AppRoundImage.qml</file>
+        <file>AppSection.qml</file>
+        <file>RightSideBar.qml</file>
+    </qresource>
+</RCC>
